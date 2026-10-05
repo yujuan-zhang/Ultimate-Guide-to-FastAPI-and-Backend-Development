@@ -1,0 +1,6 @@
+
+# Local lesson environment and generated Python/platform files
+/.venv/
+__pycache__/
+*.pyc
+.DS_Store

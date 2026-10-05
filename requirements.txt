@@ -1,0 +1,5 @@
+# First lesson only: 02-Getting Started/8-api-docs.py.
+# Versions from the completed Python 3.14 endpoint check; later chapters differ.
+fastapi==0.142.2
+uvicorn==0.54.0
+scalar-fastapi==1.9.1
